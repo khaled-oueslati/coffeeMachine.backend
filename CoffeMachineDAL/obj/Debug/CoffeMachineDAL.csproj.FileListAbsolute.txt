@@ -1,0 +1,12 @@
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\bin\Debug\CoffeMachineDAL.dll.config
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\bin\Debug\CoffeMachineDAL.dll
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\bin\Debug\CoffeMachineDAL.pdb
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\bin\Debug\EntityFramework.dll
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\bin\Debug\EntityFramework.xml
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\obj\Debug\CoffeMachineDAL.dll
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\obj\Debug\CoffeMachineDAL.pdb
+C:\Users\Khaled\Documents\Visual Studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\obj\Debug\CoffeMachineDAL.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\obj\Debug\CoffeMachineDAL.Migrations.coffeMachineDB.resources
+C:\Users\Khaled\documents\visual studio 2013\Projects\CoffeeMachine.backend\CoffeMachineDAL\obj\Debug\CoffeMachineDAL.csproj.GenerateResource.Cache
